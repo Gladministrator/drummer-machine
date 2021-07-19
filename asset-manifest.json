@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/drummer-machine/static/css/main.0e34f954.chunk.css",
+    "main.js": "/drummer-machine/static/js/main.7e3f22b6.chunk.js",
+    "main.js.map": "/drummer-machine/static/js/main.7e3f22b6.chunk.js.map",
+    "runtime-main.js": "/drummer-machine/static/js/runtime-main.941648dd.js",
+    "runtime-main.js.map": "/drummer-machine/static/js/runtime-main.941648dd.js.map",
+    "static/js/2.25705f03.chunk.js": "/drummer-machine/static/js/2.25705f03.chunk.js",
+    "static/js/2.25705f03.chunk.js.map": "/drummer-machine/static/js/2.25705f03.chunk.js.map",
+    "index.html": "/drummer-machine/index.html",
+    "static/css/main.0e34f954.chunk.css.map": "/drummer-machine/static/css/main.0e34f954.chunk.css.map",
+    "static/js/2.25705f03.chunk.js.LICENSE.txt": "/drummer-machine/static/js/2.25705f03.chunk.js.LICENSE.txt",
+    "static/media/Beep.27e61aa5.mp3": "/drummer-machine/static/media/Beep.27e61aa5.mp3",
+    "static/media/DDD_Mario.fc8d41ab.mp3": "/drummer-machine/static/media/DDD_Mario.fc8d41ab.mp3",
+    "static/media/DKC_FF.49156c8a.mp3": "/drummer-machine/static/media/DKC_FF.49156c8a.mp3",
+    "static/media/Drums.562e1877.mp3": "/drummer-machine/static/media/Drums.562e1877.mp3",
+    "static/media/KIU.916de6f0.mp3": "/drummer-machine/static/media/KIU.916de6f0.mp3",
+    "static/media/MaximumOverfly.736eba2e.mp3": "/drummer-machine/static/media/MaximumOverfly.736eba2e.mp3",
+    "static/media/Ping.13dba356.mp3": "/drummer-machine/static/media/Ping.13dba356.mp3",
+    "static/media/Time is up.16fefd91.mp3": "/drummer-machine/static/media/Time is up.16fefd91.mp3",
+    "static/media/Violin.8d9417ec.mp3": "/drummer-machine/static/media/Violin.8d9417ec.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.941648dd.js",
+    "static/js/2.25705f03.chunk.js",
+    "static/css/main.0e34f954.chunk.css",
+    "static/js/main.7e3f22b6.chunk.js"
+  ]
+}
